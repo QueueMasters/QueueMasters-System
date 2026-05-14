@@ -20,7 +20,7 @@ Managing a high-volume car wash shouldn't be chaotic. **QueueMasters** is a real
 * **Styling:** Custom CSS with dynamic status pill rendering and progress bars.
 * **Assumed Backend:**SpringBoot RESTful API (e.g., Spring Boot or Express) running on `localhost:8080`.
 * **Database Target:** H2 Console (for the historical sales archive).
-
+* **IDE:** IntelliJ and VS CODE 
 ## 🚀 Quick Start
 
 To get the QueueMasters frontend running locally, follow these steps:
